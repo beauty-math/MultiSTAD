@@ -1,0 +1,9 @@
+numpy==1.26.4
+pandas==2.2.2
+scipy==1.13.1
+scikit-learn>=1.3,<2
+statsmodels==0.14.2
+matplotlib>=3.8,<4
+# Core dependencies. Optional spatial mapping and R virtual-KO environments are described in docs/methods.md.
+# Optional mapping imports: anndata, scanpy, tangram-sc (with its PyTorch dependency).
+# These versions are a working interface environment, not a claim that every historical run used this exact stack.

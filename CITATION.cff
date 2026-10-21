@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use MultiSTAD in your work, please cite the associated manuscript and this software repository."
+title: "MultiSTAD: cross-cohort metabolic RNA associations and multiscale tissue correlates of a fixed host transcriptional program in gastric cancer"
+authors:
+  - name: "MultiSTAD developers"
+repository-code: "https://github.com/beauty-math/MultiSTAD"
+license: "MIT"
+keywords:
+  - bioinformatics
+  - multimodal omics
+  - microbiome
+  - spatial pathology
+  - immunotherapy
+  - stomach adenocarcinoma
